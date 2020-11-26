@@ -2,12 +2,12 @@
   font-family: 'CupheadVogue';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/CupheadVogue-Bold.woff) format('woff');
+  src: url(../chwikicss/fonts/CupheadVogue-Bold.woff) format('woff');
 }
 
 @font-face {
   font-family: 'CupheadVogue';
   font-style: normal;
   font-weight: 700;
-  src: url(../fonts/CupheadVogue-ExtraBold.woff) format('woff');
+  src: url(../chwikikcss/fonts/CupheadVogue-ExtraBold.woff) format('woff');
 }
